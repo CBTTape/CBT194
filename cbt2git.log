@@ -1,0 +1,7 @@
+2023-08-06 02:08:40.948963 - Initialized conversion of CBT194
+2023-08-06 02:08:40.986004 - Received CBT.V505.FILE194.PDS from FILE194.XMI 
+2023-08-06 02:08:40.988238 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE194.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:08:40.989482 - Found $MEMO.txt (text/plain) in CBT.V505.FILE194.PDS, moved to PDS/$MEMO
+2023-08-06 02:08:40.990504 - Found @FILE194.txt (text/plain) in CBT.V505.FILE194.PDS, moved to PDS/@FILE194
+2023-08-06 02:08:40.991455 - Found CUT.rexx (text/plain) in CBT.V505.FILE194.PDS, moved to PDS/CUT
+2023-08-06 02:08:40.992474 - Found PASTE.rexx (text/plain) in CBT.V505.FILE194.PDS, moved to PDS/PASTE
