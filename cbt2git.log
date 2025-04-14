@@ -1,6 +1,6 @@
-2025-04-13 17:26:41.672892 - Received CBT.V508.FILE194.PDS from FILE194.XMI 
-2025-04-13 17:26:41.673523 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE194.PDS, moved to PDS/$$$#DATE
-2025-04-13 17:26:41.673579 - Found $MEMO.txt (text/plain) in CBT.V508.FILE194.PDS, moved to PDS/$MEMO
-2025-04-13 17:26:41.673625 - Found @FILE194.txt (text/plain) in CBT.V508.FILE194.PDS, moved to PDS/@FILE194
-2025-04-13 17:26:41.673670 - Found CUT.rexx (text/plain) in CBT.V508.FILE194.PDS, moved to PDS/CUT
-2025-04-13 17:26:41.673712 - Found PASTE.rexx (text/plain) in CBT.V508.FILE194.PDS, moved to PDS/PASTE
+2025-04-15 00:26:03.287418 - Received CBT.V508.FILE194.PDS from FILE194.XMI 
+2025-04-15 00:26:03.289100 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE194.PDS, moved to PDS/$$$#DATE
+2025-04-15 00:26:03.289357 - Found $MEMO.txt (text/plain) in CBT.V508.FILE194.PDS, moved to PDS/$MEMO
+2025-04-15 00:26:03.289598 - Found @FILE194.txt (text/plain) in CBT.V508.FILE194.PDS, moved to PDS/@FILE194
+2025-04-15 00:26:03.289860 - Found CUT.rexx (text/plain) in CBT.V508.FILE194.PDS, moved to PDS/CUT
+2025-04-15 00:26:03.290104 - Found PASTE.rexx (text/plain) in CBT.V508.FILE194.PDS, moved to PDS/PASTE
